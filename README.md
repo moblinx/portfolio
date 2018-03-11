@@ -17,3 +17,4 @@ This is my portfolio.
 - AWS CodeBuild
 - AWS CodePipeline
 - AWS Lambda
+- S3
