@@ -1,0 +1,41 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio from moblinx",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.2.2",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "jest": "^22.2.2",
+    "react-test-renderer": "^16.2.0",
+    "webpack": "^3.11.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watch",
+    "webpack": "webpack",
+    "webpack-watch": "webpack --watch"
+  },
+  "jest": {
+    "setupTestFrameworkScriptFile": "./setupTests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moblinx/portfolio.git"
+  },
+  "author": "MoblinX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moblinx/portfolio/issues"
+  },
+  "homepage": "https://github.com/moblinx/portfolio#readme"
+}
