@@ -14,3 +14,6 @@ This is my portfolio.
 - Babel
 - Enzyme
 - Webpack
+- AWS CodeBuild
+- AWS CodePipeline
+- AWS Lambda
