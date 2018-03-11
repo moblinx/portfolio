@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "Portfolio from moblinx",
+  "description": "Portfolio from MoblinX",
   "main": "index.js",
   "dependencies": {
     "react": "^16.2.0",
