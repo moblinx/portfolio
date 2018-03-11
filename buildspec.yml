@@ -8,7 +8,7 @@ phases:
     build:
       commands:
         - npm run webpack
-artifacts:a
+artifacts:
   files:
     - index.html
     - favicon.ico
