@@ -8,7 +8,7 @@ def lambda_handler(event, context):
     job = event.get("CodePipeline.job")
     message = ""
 
-    # Putting pw for this in parameter store under the filename, as always
+    # Putting pw for this in parameter store under the filename
     location = {
         "bucketName": "build.portfolio.xbcw.net",
         "objectKey": "portfoliobuild.zip"
